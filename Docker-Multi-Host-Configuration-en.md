@@ -7,8 +7,8 @@ running on all hosts.
 For this scenario they are used:
 - Oracle VM VirtualBox 5.0.
 - Ubuntu Server 15.04.
-- Docker (last version).
-- Open vSwitch (last version).
+- Docker (latest version).
+- Open vSwitch (latest version).
 
 Configuration common to all hosts
 --------------------------------------
